@@ -117,115 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="About" xml:space="preserve">
-    <value>アプリについて</value>
+  <data name="AccessibleName" xml:space="preserve">
+    <value>Strumento per testare espressioni regolari</value>
   </data>
-  <data name="AppTheme" xml:space="preserve">
-    <value>アプリのテーマ</value>
+  <data name="Configuration" xml:space="preserve">
+    <value>Configurazione</value>
   </data>
-  <data name="AppThemeDescription" xml:space="preserve">
-    <value>表示するアプリのテーマを選択します</value>
+  <data name="CultureInvariant" xml:space="preserve">
+    <value>Cultura invariante</value>
   </data>
-  <data name="AppTitle" xml:space="preserve">
-    <value>DevToys</value>
-  </data>
-  <data name="Behaviors" xml:space="preserve">
-    <value>動作</value>
-  </data>
-  <data name="Close" xml:space="preserve">
-    <value>閉じる</value>
-  </data>
-  <data name="Copy" xml:space="preserve">
-    <value>コピー</value>
-  </data>
-  <data name="Dark" xml:space="preserve">
-    <value>ダーク</value>
-  </data>
-  <data name="DefaultLanguage" xml:space="preserve">
-    <value>Windows に合わせる</value>
+  <data name="CultureInvariantDescription" xml:space="preserve">
+    <value>Specifica che le differenze culturali nella lingua vengono ignorate.</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>設定</value>
+    <value>Tester espressioni regolari</value>
   </data>
-  <data name="Font" xml:space="preserve">
-    <value>フォント</value>
+  <data name="EcmaScript" xml:space="preserve">
+    <value>ECMAScript</value>
   </data>
-  <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>選択された行のハイライト</value>
+  <data name="EcmaScriptDescription" xml:space="preserve">
+    <value>Abilita il comportamento conforme a ECMAScript per l'espressione. Questo valore può essere utilizzato solo insieme alle opzioni "Cultura invariante", "Ignora distinzione lettere" e "Multilinea".</value>
   </data>
-  <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>選択中の行の背景色を変更して、見やすくします</value>
+  <data name="IgnoreCase" xml:space="preserve">
+    <value>Ignora distinzione lettere</value>
   </data>
-  <data name="Language" xml:space="preserve">
-    <value>言語</value>
+  <data name="IgnoreCaseDescription" xml:space="preserve">
+    <value>Specifica la corrispondenza senza distinzione tra maiuscole e minuscole.</value>
   </data>
-  <data name="LanguageDescription" xml:space="preserve">
-    <value>別の言語を選択するときは、アプリを再起動する必要があります</value>
+  <data name="IgnoreWhitespace" xml:space="preserve">
+    <value>Ignora gli spazi bianchi</value>
   </data>
-  <data name="License" xml:space="preserve">
-    <value>ライセンス</value>
+  <data name="IgnoreWhitespaceDescription" xml:space="preserve">
+    <value>Elimina lo spazio bianco senza escape dal pattern e abilita i commenti contrassegnati con #. Tuttavia, questo valore non influisce o elimina gli spazi vuoti nelle classi di caratteri, quantificatori numerici o token che segnano l'inizio dei singoli elementi del linguaggio delle espressioni regolari.</value>
   </data>
-  <data name="Light" xml:space="preserve">
-    <value>ライト</value>
+  <data name="Multiline" xml:space="preserve">
+    <value>Multilinea</value>
   </data>
-  <data name="LineNumbers" xml:space="preserve">
-    <value>行数</value>
+  <data name="MultilineDescription" xml:space="preserve">
+    <value>Cambia il significato di ^ e $ in modo che corrispondano rispettivamente all'inizio e alla fine di qualsiasi riga e non solo all'inizio e alla fine dell'intera stringa.</value>
   </data>
-  <data name="LineNumbersDescription" xml:space="preserve">
-    <value>テキストエディタ内で行番号を表示する</value>
+  <data name="Options" xml:space="preserve">
+    <value>Opzioni</value>
   </data>
-  <data name="OpenLogs" xml:space="preserve">
-    <value>ログを開く</value>
+  <data name="RegularExpression" xml:space="preserve">
+    <value>Espressioni regolari</value>
   </data>
-  <data name="PrivacyPolicy" xml:space="preserve">
-    <value>プライバシーポリシー</value>
+  <data name="RightToLeft" xml:space="preserve">
+    <value>Destra a sinistra</value>
   </data>
-  <data name="RateAndReview" xml:space="preserve">
-    <value>MicrosoftStoreの評価とレビュー</value>
+  <data name="RightToLeftDescription" xml:space="preserve">
+    <value>Specifica che la ricerca sarà da destra a sinistra anziché da sinistra a destra.</value>
   </data>
-  <data name="RenderWhitespace" xml:space="preserve">
-    <value>空白文字を表示</value>
+  <data name="Singleline" xml:space="preserve">
+    <value>Linea singola</value>
   </data>
-  <data name="ReportProblem" xml:space="preserve">
-    <value>問題を報告</value>
+  <data name="SinglelineDescription" xml:space="preserve">
+    <value>Cambia il significato del punto (.) in modo che corrisponda a tutti i caratteri (anziché a tutti i caratteri tranne \n).</value>
   </data>
-  <data name="SmartDetection" xml:space="preserve">
-    <value>スマート検出</value>
-  </data>
-  <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>クリップボードの内容に基づいて最適なツールを自動的に検出します</value>
-  </data>
-  <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>スマート検出の使い方</value>
-  </data>
-  <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>推奨ツールを選択するときにクリップボードの内容を自動的に貼り付けます</value>
-  </data>
-  <data name="SourceCode" xml:space="preserve">
-    <value>ソースコード</value>
-  </data>
-  <data name="TextEditor" xml:space="preserve">
-    <value>テキストエディタ</value>
-  </data>
-  <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>サードパーティ ライセンス</value>
-  </data>
-  <data name="UsefulLinks" xml:space="preserve">
-    <value>便利なリンク</value>
-  </data>
-  <data name="UseSystemSettings" xml:space="preserve">
-    <value>システム設定に従う</value>
-  </data>
-  <data name="Version" xml:space="preserve">
-    <value>バージョン {0}</value>
-  </data>
-  <data name="WordWrap" xml:space="preserve">
-    <value>ワード ラップ</value>
+  <data name="Text" xml:space="preserve">
+    <value>Testo</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>DevToys の見た目や使い勝手をカスタマイズしよう</value>
+    <value>Convalida e verifica le espressioni regolari</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>設定</value>
+    <value>Tester espressioni regolari</value>
   </data>
 </root>

@@ -118,114 +118,114 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>アプリについて</value>
+    <value>Riguardo</value>
   </data>
   <data name="AppTheme" xml:space="preserve">
-    <value>アプリのテーマ</value>
+    <value>Tema app</value>
   </data>
   <data name="AppThemeDescription" xml:space="preserve">
-    <value>表示するアプリのテーマを選択します</value>
+    <value>Seleziona il tema dell'app da visualizzare</value>
   </data>
   <data name="AppTitle" xml:space="preserve">
     <value>DevToys</value>
   </data>
   <data name="Behaviors" xml:space="preserve">
-    <value>動作</value>
+    <value>Comportamenti</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>閉じる</value>
+    <value>Chiudi</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>コピー</value>
+    <value>Copia</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>ダーク</value>
+    <value>Scuro</value>
   </data>
   <data name="DefaultLanguage" xml:space="preserve">
-    <value>Windows に合わせる</value>
+    <value>Quella di Windows</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>設定</value>
+    <value>Impostazioni</value>
   </data>
   <data name="Font" xml:space="preserve">
-    <value>フォント</value>
+    <value>Font</value>
   </data>
   <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>選択された行のハイライト</value>
+    <value>Evidenzia la riga corrente</value>
   </data>
   <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>選択中の行の背景色を変更して、見やすくします</value>
+    <value>Cambia il colore di sfondo della linea corrente in modo che sia più visibile</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>言語</value>
+    <value>Lingua</value>
   </data>
   <data name="LanguageDescription" xml:space="preserve">
-    <value>別の言語を選択するときは、アプリを再起動する必要があります</value>
+    <value>L'app deve essere riavviata quando si seleziona un'altra lingua</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>ライセンス</value>
+    <value>Licenza</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>ライト</value>
+    <value>Chiaro</value>
   </data>
   <data name="LineNumbers" xml:space="preserve">
-    <value>行数</value>
+    <value>Numero linee</value>
   </data>
   <data name="LineNumbersDescription" xml:space="preserve">
-    <value>テキストエディタ内で行番号を表示する</value>
+    <value>Visualizza i numeri di riga nell'editor di testo</value>
   </data>
   <data name="OpenLogs" xml:space="preserve">
-    <value>ログを開く</value>
+    <value>Apri il file di log</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>プライバシーポリシー</value>
+    <value>Politica sulla riservatezza</value>
   </data>
   <data name="RateAndReview" xml:space="preserve">
-    <value>MicrosoftStoreの評価とレビュー</value>
+    <value>Valuta e recensisci nel Microsoft Store</value>
   </data>
   <data name="RenderWhitespace" xml:space="preserve">
-    <value>空白文字を表示</value>
+    <value>Rendering degli spazi bianchi</value>
   </data>
   <data name="ReportProblem" xml:space="preserve">
-    <value>問題を報告</value>
+    <value>Segnala un problema</value>
   </data>
   <data name="SmartDetection" xml:space="preserve">
-    <value>スマート検出</value>
+    <value>Rilevamento intelligente</value>
   </data>
   <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>クリップボードの内容に基づいて最適なツールを自動的に検出します</value>
+    <value>Rileva automaticamente lo strumento migliore in base al contenuto degli appunti</value>
   </data>
   <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>スマート検出の使い方</value>
+    <value>Come utilizzare il rilevamento intelligente</value>
   </data>
   <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>推奨ツールを選択するときにクリップボードの内容を自動的に貼り付けます</value>
+    <value>Incolla automaticamente il contenuto degli appunti quando selezioni uno strumento consigliato</value>
   </data>
   <data name="SourceCode" xml:space="preserve">
-    <value>ソースコード</value>
+    <value>Codice sorgente</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>テキストエディタ</value>
+    <value>Editor di testo</value>
   </data>
   <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>サードパーティ ライセンス</value>
+    <value>Licenze di terze parti</value>
   </data>
   <data name="UsefulLinks" xml:space="preserve">
-    <value>便利なリンク</value>
+    <value>Link utili</value>
   </data>
   <data name="UseSystemSettings" xml:space="preserve">
-    <value>システム設定に従う</value>
+    <value>Usa impostazioni di sistema</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>バージョン {0}</value>
+    <value>Versione {0}</value>
   </data>
   <data name="WordWrap" xml:space="preserve">
-    <value>ワード ラップ</value>
+    <value>Manda a capo le parole</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>DevToys の見た目や使い勝手をカスタマイズしよう</value>
+    <value>Modifica la visuale e il funzionamento di DevToys</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>設定</value>
+    <value>Impostazioni</value>
   </data>
 </root>
